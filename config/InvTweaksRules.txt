@@ -39,4 +39,5 @@ D2 pickaxe
 D3 axe
 D4 sword
 D5 torch
+D9 ediblefood
 C9 arrow
